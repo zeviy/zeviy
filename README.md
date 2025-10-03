@@ -1,3 +1,3 @@
 ### Zeviy
 
-Transforming business ideas into interactive website applications.
+Transforming ideas into interactive website applications.
